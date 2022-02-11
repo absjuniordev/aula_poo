@@ -1,0 +1,15 @@
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.csproj.AssemblyReference.cache
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.AssemblyInfoInputs.cache
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.AssemblyInfo.cs
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.csproj.CoreCompileInputs.cache
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\bin\Debug\net6.0\Orirentação Objetos.exe
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\bin\Debug\net6.0\Orirentação Objetos.deps.json
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\bin\Debug\net6.0\Orirentação Objetos.runtimeconfig.json
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\bin\Debug\net6.0\Orirentação Objetos.dll
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\bin\Debug\net6.0\ref\Orirentação Objetos.dll
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\bin\Debug\net6.0\Orirentação Objetos.pdb
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.dll
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\ref\Orirentação Objetos.dll
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.pdb
+C:\Users\absju\Documents\Visual code no git\Orirentação Objetos\obj\Debug\net6.0\Orirentação Objetos.genruntimeconfig.cache
